@@ -1,0 +1,19 @@
+﻿{
+    "version":  1,
+    "githubUser":  "lineageorigenes",
+    "repository":  "OriginsL2-Patch",
+    "generatedAt":  "2026-09-26 13:22:40",
+    "totalFiles":  2,
+    "files":  [
+                  {
+                      "path":  "system/Option.ini",
+                      "sha256":  "173F987EC2E5396642C8D18FF78F9E381289229EA887F712E4EAAC1C5EA2DDFE",
+                      "size":  969
+                  },
+                  {
+                      "path":  "system/user.ini",
+                      "sha256":  "BE9DE48E1AB6441D206CEADC56C3BC4289BFEB6DC4DAB7BA36BEA66663160D13",
+                      "size":  4144
+                  }
+              ]
+}
