@@ -2,9 +2,19 @@
     "version":  1,
     "githubUser":  "lineageorigenes",
     "repository":  "OriginsL2-Patch",
-    "generatedAt":  "2026-10-03 12:40:42",
-    "totalFiles":  1,
+    "generatedAt":  "2026-10-05 13:29:03",
+    "totalFiles":  3,
     "files":  [
+                  {
+                      "path":  "system/etcitemgrp.dat",
+                      "sha256":  "46A24E7313FB5723957FE4E4F97FF8B8782FA90DBD1A90F711FB5504269E6BCB",
+                      "size":  68016
+                  },
+                  {
+                      "path":  "system/itemname-e.dat",
+                      "sha256":  "BEF4507F837B07D012D1D288C75756B1C4ED0013995DA5BE5EE3C54881A60FFD",
+                      "size":  198960
+                  },
                   {
                       "path":  "system/user.ini",
                       "sha256":  "BE9DE48E1AB6441D206CEADC56C3BC4289BFEB6DC4DAB7BA36BEA66663160D13",
